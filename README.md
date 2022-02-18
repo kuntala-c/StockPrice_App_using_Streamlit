@@ -1,5 +1,5 @@
 # StockPrice_App_using_Streamlit
-**Aim:** Designed a basic Stock Price app to learn Streamlit
+**Aim:** Designed basic Stock Price apps to learn Streamlit
 
 **Credits:** [Data Professor](http://youtube.com/dataprofessor)
 
